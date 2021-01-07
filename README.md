@@ -1,4 +1,4 @@
-# Views-CRM-system-Vue.js
+# viewsCrmSystemVueJs
 
 Views from the CRM system project on Vue.js;
 
